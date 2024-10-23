@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8002cead-b70d-4357-b401-7b6c9adc6e00" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2VIeRjU2WTo6Yjk8GlUmovvNHr1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.AllThePatterns.executor": "Run",
+    "Application.CBVvsCBN.executor": "Run",
+    "Application.HandlingFailure.executor": "Run",
+    "Application.Options.executor": "Run",
+    "Application.PatternMatching.executor": "Run",
+    "Application.TuplesAndMaps.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ict/practice scala/test2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Options">
+    <configuration name="AllThePatterns" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part4pm.AllThePatterns" />
+      <module name="rock-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part4pm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CBVvsCBN" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.CBVvsCBN" />
+      <module name="rock-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandlingFailure" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part3fp.HandlingFailure" />
+      <module name="rock-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Options" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part3fp.Options" />
+      <module name="rock-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuplesAndMaps" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part3fp.TuplesAndMaps" />
+      <module name="rock-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Options" />
+        <item itemvalue="Application.CBVvsCBN" />
+        <item itemvalue="Application.HandlingFailure" />
+        <item itemvalue="Application.TuplesAndMaps" />
+        <item itemvalue="Application.AllThePatterns" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8002cead-b70d-4357-b401-7b6c9adc6e00" name="Changes" comment="" />
+      <created>1694528018582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694528018582</updated>
+      <workItem from="1694528019601" duration="2443000" />
+      <workItem from="1694530828660" duration="3451000" />
+      <workItem from="1694576599340" duration="600000" />
+      <workItem from="1694616934892" duration="3958000" />
+      <workItem from="1694656392019" duration="25000" />
+      <workItem from="1694939283265" duration="4438000" />
+      <workItem from="1695096301187" duration="22000" />
+      <workItem from="1695206967290" duration="1569000" />
+      <workItem from="1695226175321" duration="2984000" />
+      <workItem from="1695262019145" duration="49000" />
+      <workItem from="1696175091729" duration="228000" />
+      <workItem from="1696262977656" duration="3898000" />
+      <workItem from="1696305269054" duration="21000" />
+      <workItem from="1696351723972" duration="1641000" />
+      <workItem from="1696825926981" duration="328000" />
+      <workItem from="1699335773633" duration="6381000" />
+      <workItem from="1699350416104" duration="17526000" />
+      <workItem from="1699431971349" duration="6954000" />
+      <workItem from="1699450510568" duration="49000" />
+      <workItem from="1699513253825" duration="226000" />
+      <workItem from="1699516583388" duration="20000" />
+      <workItem from="1699541283715" duration="4026000" />
+      <workItem from="1699606287192" duration="2814000" />
+      <workItem from="1699712426277" duration="510000" />
+      <workItem from="1699713723421" duration="750000" />
+      <workItem from="1700285372655" duration="42000" />
+      <workItem from="1701246417045" duration="1741000" />
+      <workItem from="1701595092212" duration="643000" />
+      <workItem from="1701605917258" duration="3420000" />
+      <workItem from="1701760588608" duration="6032000" />
+      <workItem from="1701773734152" duration="19000" />
+      <workItem from="1701953426505" duration="3319000" />
+      <workItem from="1702027708208" duration="10671000" />
+      <workItem from="1702114312379" duration="52000" />
+      <workItem from="1702137131874" duration="482000" />
+      <workItem from="1702226340846" duration="3065000" />
+      <workItem from="1702287821391" duration="2555000" />
+      <workItem from="1702385490911" duration="47000" />
+      <workItem from="1702550035246" duration="3920000" />
+      <workItem from="1702556371178" duration="254000" />
+      <workItem from="1702627165281" duration="815000" />
+      <workItem from="1702631474693" duration="2923000" />
+      <workItem from="1702637464422" duration="14000" />
+      <workItem from="1702867671527" duration="741000" />
+      <workItem from="1703432955036" duration="2649000" />
+      <workItem from="1703514084003" duration="214000" />
+      <workItem from="1704878891729" duration="89000" />
+      <workItem from="1704879702603" duration="13000" />
+      <workItem from="1710481809204" duration="36000" />
+      <workItem from="1710756631846" duration="514000" />
+      <workItem from="1711364091696" duration="670000" />
+      <workItem from="1711428391732" duration="23000" />
+      <workItem from="1712214000038" duration="628000" />
+      <workItem from="1712293800912" duration="98000" />
+      <workItem from="1712311520427" duration="1107000" />
+      <workItem from="1712510094098" duration="614000" />
+      <workItem from="1712660139440" duration="268000" />
+      <workItem from="1712681470672" duration="885000" />
+      <workItem from="1712732902006" duration="112000" />
+      <workItem from="1713249668161" duration="8140000" />
+      <workItem from="1713282881486" duration="6938000" />
+      <workItem from="1713322221438" duration="870000" />
+      <workItem from="1713337222657" duration="3334000" />
+      <workItem from="1713348029432" duration="6902000" />
+      <workItem from="1713419812414" duration="66000" />
+      <workItem from="1713677003702" duration="13081000" />
+      <workItem from="1714057510307" duration="11000" />
+      <workItem from="1714125774631" duration="92000" />
+      <workItem from="1714718652063" duration="136000" />
+      <workItem from="1714718952681" duration="42000" />
+      <workItem from="1714727403761" duration="34000" />
+      <workItem from="1714727865916" duration="619000" />
+      <workItem from="1715923825542" duration="193000" />
+      <workItem from="1715924721702" duration="311000" />
+      <workItem from="1715925226526" duration="135000" />
+      <workItem from="1715925775227" duration="123000" />
+      <workItem from="1715927937618" duration="165000" />
+      <workItem from="1715936411443" duration="1684000" />
+      <workItem from="1715939317016" duration="455000" />
+      <workItem from="1716108906700" duration="125000" />
+      <workItem from="1716371691884" duration="83000" />
+      <workItem from="1716372564371" duration="33000" />
+      <workItem from="1716448354467" duration="611000" />
+      <workItem from="1716544284372" duration="53000" />
+      <workItem from="1716968938390" duration="40000" />
+      <workItem from="1716972214930" duration="20000" />
+      <workItem from="1716972261004" duration="61000" />
+      <workItem from="1717398128513" duration="90000" />
+      <workItem from="1717588058979" duration="343000" />
+      <workItem from="1717693914119" duration="889000" />
+      <workItem from="1717912677534" duration="64000" />
+      <workItem from="1717913984437" duration="28000" />
+      <workItem from="1717914261136" duration="229000" />
+      <workItem from="1717916343890" duration="1837000" />
+      <workItem from="1718001766264" duration="66000" />
+      <workItem from="1718004337353" duration="860000" />
+      <workItem from="1718102304870" duration="29000" />
+      <workItem from="1719126429168" duration="104000" />
+      <workItem from="1719135515353" duration="29000" />
+      <workItem from="1719135974953" duration="30000" />
+      <workItem from="1719138542421" duration="6000" />
+      <workItem from="1722230518472" duration="35000" />
+      <workItem from="1722237900895" duration="23000" />
+      <workItem from="1722245554856" duration="12000" />
+      <workItem from="1722408136381" duration="46000" />
+      <workItem from="1722497445153" duration="199000" />
+      <workItem from="1722840053114" duration="171000" />
+      <workItem from="1722840333059" duration="19000" />
+      <workItem from="1724310324761" duration="112000" />
+      <workItem from="1725727259630" duration="83000" />
+      <workItem from="1729675217836" duration="1058000" />
+      <workItem from="1729676309330" duration="441000" />
+      <workItem from="1729677487350" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
